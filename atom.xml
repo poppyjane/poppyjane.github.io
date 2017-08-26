@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-13T03:52:55.000Z</updated>
+  <updated>2017-08-26T08:20:33.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,44 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我眼中的Mac优势及不足</title>
+    <link href="http://yoursite.com/2017/08/26/%E6%88%91%E7%9C%BC%E4%B8%AD%E7%9A%84Mac%E4%BC%98%E5%8A%BF%E5%8F%8A%E4%B8%8D%E8%B6%B3/"/>
+    <id>http://yoursite.com/2017/08/26/我眼中的Mac优势及不足/</id>
+    <published>2017-08-26T08:07:56.000Z</published>
+    <updated>2017-08-26T08:20:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>用了Macbook Air快一年了，总结一下我认为的它的优势所在及不足。</strong></p>
+<p>###1.单程序运行，不卡顿，提高工作效率</p>
+<p>###2.快捷键方便</p>
+<p>###3.系统自带的支持python，perl等<br>（1）Mac OS X系统是Unix架构，大部分的软件编译很方便；</p>
+<p>（2）惊为天人的设计包括：安装打印机驱动，Mac不需要自己去网站上下载驱动，只需要USB接口连接上电脑，然后根据系统提示点击安装即可，简直棒呆了！</p>
+<p>###4.轻薄，携带方便，耐操</p>
+<p>###5.钥匙串访问自动记住密码<br>现在各种网站应用的账号密码多的数都数不过来，还好有🔑提高效率杠杠的</p>
+<p>###6.再也不用开关机等候</p>
+<p>###7.众多优秀的应用，不如ominifocus</p>
+<p>###8.Mail＋Calendar＋iCloud的组合<br>Mac与iPhone的协同办公系统让你远离电脑也可以随时随地办公！</p>
+<p>###9.安装程序<br>再也不需要自己选择了，没有许多附带应用的自动安装，不需要再清理系统盘。<br>此外我打开十个以上的应用电脑也不卡，4G的内存，小小容量、海纳百川。</p>
+<p>###不足之处也很明显<br>（1）许多软件的不兼容；<br>（2）惊奇的发现优酷居然连弹幕都木有；<br>（3）Apple Store上有些应用居然不能退款，首先我不是一个经常申请退款的人，但是有部分软件的恶意收费很恶心，打着别的应用的名义欺骗消费者，需要多改进！<br>（4）新发布的USB接口取消，如果近两年内U盘没有大改进的话对于部分消费者而言是一种羁绊，本人就很不喜欢电脑周围一大堆线。</p>
+<p>未完待续…</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;用了Macbook Air快一年了，总结一下我认为的它的优势所在及不足。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;###1.单程序运行，不卡顿，提高工作效率&lt;/p&gt;
+&lt;p&gt;###2.快捷键方便&lt;/p&gt;
+&lt;p&gt;###3.系统自带的支持python，perl等&lt;br&gt;（
+    
+    </summary>
+    
+      <category term="硬件" scheme="http://yoursite.com/categories/%E7%A1%AC%E4%BB%B6/"/>
+    
+    
+      <category term="Mac" scheme="http://yoursite.com/tags/Mac/"/>
+    
+  </entry>
   
   <entry>
     <title>如何像写小说一样写论文呢？</title>
@@ -123,7 +161,7 @@
     <link href="http://yoursite.com/2017/07/29/%E7%A7%91%E7%A0%94%E8%AE%BA%E6%96%87%E7%9A%84%E7%BB%84%E5%9B%BE%E6%96%B9%E5%BC%8F%EF%BC%882%EF%BC%89%E2%80%94%E2%80%94PS%E7%BB%84%E5%9B%BE/"/>
     <id>http://yoursite.com/2017/07/29/科研论文的组图方式（2）——PS组图/</id>
     <published>2017-07-29T09:44:30.000Z</published>
-    <updated>2017-08-13T03:52:32.000Z</updated>
+    <updated>2017-08-13T03:59:23.000Z</updated>
     
     <content type="html"><![CDATA[<p><strong>听说你要发文章了，小心脏激动的不行不行的，如何让图片组合的漂漂亮亮的见review呢?</strong></p>
 <p><strong>演示用到的软件及版本</strong></p>
@@ -171,7 +209,7 @@
     <link href="http://yoursite.com/2017/07/20/%E7%A7%91%E7%A0%94%E8%AE%BA%E6%96%87%E7%9A%84%E7%BB%84%E5%9B%BE%E6%96%B9%E5%BC%8F%EF%BC%881%EF%BC%89%E2%80%94%E2%80%94PPT%E7%BB%84%E5%9B%BE/"/>
     <id>http://yoursite.com/2017/07/20/科研论文的组图方式（1）——PPT组图/</id>
     <published>2017-07-20T10:57:42.000Z</published>
-    <updated>2017-08-13T03:52:28.000Z</updated>
+    <updated>2017-08-13T03:58:51.000Z</updated>
     
     <content type="html"><![CDATA[<p>厌倦了PPT把图片拖过来拖过去对齐，如何用PPT科学的组图？</p>
 <p><strong>演示用到的软件及版本</strong></p>
