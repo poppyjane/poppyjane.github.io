@@ -4,21 +4,6 @@
 
     
   <url>
-    <loc>http://yoursite.com/2018/07/20/test1/</loc>
-    <lastmod>2018-07-20T04:19:04.000Z</lastmod>
-    <data>
-        <display>
-        <title>test1</title>
-        <pubTime>2018-07-20T04:19:04.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://yoursite.com/2017/09/03/Poppy%E5%8F%88%E5%9B%9E%E6%9D%A5%E4%BA%86/</loc>
     <lastmod>2018-07-19T15:46:10.000Z</lastmod>
     <data>
@@ -122,11 +107,11 @@
         <title>科研论文的组图方式（1）——PPT组图</title>
         <pubTime>2017-07-20T10:57:42.000Z</pubTime>
         
-        <tag>PPT</tag>
-         
         <tag>组图</tag>
          
         <tag>科研做图</tag>
+         
+        <tag>PPT</tag>
          
          
            
@@ -146,11 +131,11 @@
         <title>科研论文的组图方式（2）——PS组图</title>
         <pubTime>2017-07-29T09:44:30.000Z</pubTime>
         
+        <tag>PS</tag>
+         
         <tag>组图</tag>
          
         <tag>科研做图</tag>
-         
-        <tag>PS</tag>
          
          
            
