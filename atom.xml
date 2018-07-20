@@ -243,13 +243,13 @@
       <category term="软件" scheme="http://yoursite.com/categories/%E8%BD%AF%E4%BB%B6/"/>
     
     
-      <category term="AI" scheme="http://yoursite.com/tags/AI/"/>
-    
-      <category term="Adobe Illustrator" scheme="http://yoursite.com/tags/Adobe-Illustrator/"/>
-    
       <category term="组图" scheme="http://yoursite.com/tags/%E7%BB%84%E5%9B%BE/"/>
     
       <category term="科研做图" scheme="http://yoursite.com/tags/%E7%A7%91%E7%A0%94%E5%81%9A%E5%9B%BE/"/>
+    
+      <category term="AI" scheme="http://yoursite.com/tags/AI/"/>
+    
+      <category term="Adobe Illustrator" scheme="http://yoursite.com/tags/Adobe-Illustrator/"/>
     
   </entry>
   
@@ -293,11 +293,11 @@
       <category term="软件" scheme="http://yoursite.com/categories/%E8%BD%AF%E4%BB%B6/"/>
     
     
+      <category term="PS" scheme="http://yoursite.com/tags/PS/"/>
+    
       <category term="组图" scheme="http://yoursite.com/tags/%E7%BB%84%E5%9B%BE/"/>
     
       <category term="科研做图" scheme="http://yoursite.com/tags/%E7%A7%91%E7%A0%94%E5%81%9A%E5%9B%BE/"/>
-    
-      <category term="PS" scheme="http://yoursite.com/tags/PS/"/>
     
   </entry>
   
