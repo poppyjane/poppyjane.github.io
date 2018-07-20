@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-10-08T06:59:13.000Z</updated>
+  <updated>2018-07-20T04:19:04.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test1</title>
+    <link href="http://yoursite.com/2018/07/20/test1/"/>
+    <id>http://yoursite.com/2018/07/20/test1/</id>
+    <published>2018-07-20T04:19:04.000Z</published>
+    <updated>2018-07-20T04:19:04.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>流式细胞术（1）———基础知识篇</title>
